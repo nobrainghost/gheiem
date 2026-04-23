@@ -1,0 +1,16 @@
+{
+  "notification": {
+    "url": "https://support-pal-global.lovable.app",
+    "show": true,
+    "title": "❤️ Support Development ❤️",
+    "version": "v1.7.9",
+    "contents": "Keep the music playing 🎶\nSupport Cubic Music via PayPal or M-Pesa ❤️Click here to donate❤️❤️",
+    "imageUrl": "https://dywyagjcuvxtjgtksyjn.supabase.co/storage/v1/object/public/notification-images/noti_1775977988928.jpg",
+    "isUpdate": true,
+    "is_force": true,
+    "show_text": true,
+    "show_image": true,
+    "force_update": true,
+    "frequency_hours": 24
+  }
+}
