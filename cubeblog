@@ -28,7 +28,7 @@
     "android_key": "63cbd7bb8ca53a31817a418b2cfb7e6a"
   },
   "update_release": {
-    "version": "5.0",
+    "version": "4.6",
     "url": "https://github.com/cybruGhost/Cube/releases/download/v2.0.30/thecube-5.0.apk",
     "contents1": "🚀 New Version 5.0 Dropped!\n\n🔥 What's new:\n• Watch shows from Netflix, Amazon, Apple TV+, HBO, Disney, Pixar, Marvel, AMC, Paramount, Warner Bros, Walt Disney, Lucasfilm, DC Entertainment, Paramount+, Columbia Pictures, DreamWorks\n• Subtitles (fully managed)\n• Built-in support system\n• Continue watching (unlimited saves)\n• Internal player (no ads, smooth playback)\n• Next episode button\n• Auto updates\n• 1K+ downloads 🎉",
     "contents2": "Fixed subtitles sync, better sources, player & back button fixes, watch progress improved, plus better performance and internal player.",
