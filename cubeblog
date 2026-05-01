@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "lastUpdated": "2026-05-01T18:30:00Z",
+    "totalPosts": 12,
+    "site": "THE CUBE"
+  },
+  "notification": {
+    "version": "50",
+    "url": "https://support-pal-global.lovable.app",
+    "title": "❤️ Support Development ❤️",
+    "contents": "Keep the movies playing 🎶\nSupport THE CUBE via PayPal or M-Pesa ❤️ Click here to donate",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv-hheYdXxAvv_mnO-ztqE92TX-sp1S69IFA&s",
+    "show": true,
+    "is_force": true,
+    "force_update": true,
+    "isUpdate": true
+  },
+  "ads_config": {
+    "init_ads": "admob",
+    "admob": {
+      "app_id": "ca-app-pub-7167154680086124~1956582131",
+      "banner_ad": "ca-app-pub-7167154680086124/6551931099"
+    },
+    "show_ads": true
+  },
+  "tmdb_apikey": {
+    "ios_key": "63cbd7bb8ca53a31817a418b2cfb7e6a",
+    "android_key": "63cbd7bb8ca53a31817a418b2cfb7e6a"
+  },
+  "update_release": {
+    "version": "5.0",
+    "url": "https://github.com/cybruGhost/Cube/releases/download/v2.0.30/thecube-5.0.apk",
+    "contents1": "🚀 New Version 5.0 Dropped!\n\n🔥 What's new:\n• Watch shows from Netflix, Amazon, Apple TV+, HBO, Disney, Pixar, Marvel, AMC, Paramount, Warner Bros, Walt Disney, Lucasfilm, DC Entertainment, Paramount+, Columbia Pictures, DreamWorks\n• Subtitles (fully managed)\n• Built-in support system\n• Continue watching (unlimited saves)\n• Internal player (no ads, smooth playback)\n• Next episode button\n• Auto updates\n• 1K+ downloads 🎉",
+    "contents2": "Fixed subtitles sync, better sources, player & back button fixes, watch progress improved, plus better performance and internal player.",
+    "contents3": "Please use stable WiFi or mobile data to avoid download failure. Go to Settings and grant THE CUBE storage permission to install the update.",
+    "contents4": "If download fails via this method, visit our site: https://thecub.netlify.app",
+    "contents5": "Let us know if you face any issues 👍",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv-hheYdXxAvv_mnO-ztqE92TX-sp1S69IFA&s",
+    "video_url": "https://example.com/preview-update.mp4",
+    "force_update": true,
+    "isUpdate": true
+  },
+  "on_restart": {
+    "reset_as_new": true,
+    "welcome_message": "Welcome to THE CUBE App! Start exploring your favorite shows now."
+  },
+  "app_player_config": {
+    "player_apk_url": "https://thecub4.netlify.app/dl/v2.0.20/player.apk",
+    "player_version_build": 34,
+    "player_is_install_force": true,
+    "force_player": true,
+    "background_playback": true,
+    "subtitle_styling": {
+      "font_size": 16,
+      "font_color": "#FFFFFF",
+      "background": "#80000000"
+    }
+  },
+  "user_preferences": {
+    "default_player": "core",
+    "remember_quality": true,
+    "remember_subtitle": true,
+    "auto_play_next": true
+  },
+  "switch_player_config": {
+    "package_name": "com.drama.simpleplayer",
+    "activity_name": "com.drama.simpleplayer.PlayerActivity",
+    "apk_url": "https://github.com/cybruGhost/player/releases/download/v1.0.9/jennienew.apk",
+    "store_url": "https://play.google.com/store/apps/details?id=com.drama.simpleplayer",
+    "version_build": 34,
+    "is_force": true,
+    "app_name": "Jennie Player",
+    "is_ab_testing": false,
+    "buffer_config": {
+      "min_buffer_ms": 2000,
+      "max_buffer_ms": 5000,
+      "reconnect_timeout": 3000,
+      "sleep_priority_links": 3000,
+      "priority_links": [
+        "SERVER F1",
+        "SERVER F2",
+        "SERVER A1",
+        "SERVER A2",
+        "SERVER R1",
+        "SERVER L2"
+      ]
+    },
+    "data": [
+      {
+        "package_name": "com.drama.simpleplayer",
+        "activity_name": "com.drama.simpleplayer.PlayerActivity",
+        "apk_url": "https://github.com/hdooine/dramaplayer/releases/download/v1.0.5/dramaplayer-1.0.5.apk",
+        "store_url": "https://play.google.com/store/apps/details?id=com.drama.simpleplayer",
+        "version_build": 16,
+        "is_force": true,
+        "app_name": "Jennie Player"
+      },
+      {
+        "package_name": "com.mon.apt",
+        "activity_name": "com.med.apt.PlayerActivity",
+        "apk_url": "https://github.com/hdoonline/player/releases/download/v1.0.17/mediaon-1.0.17.apk",
+        "store_url": "https://play.google.com/store/apps/details?id=com.mediaon.apt",
+        "version_build": 9,
+        "is_force": false,
+        "app_name": "Me"
+      }
+    ]
+  },
+  "subtitle_config": {
+    "id": "eng",
+    "color": "#FFFFFF",
+    "size": 16,
+    "visible": true,
+    "code": "en",
+    "name": "English"
+  },
+  "posts": [
+    {
+      "id": "version-5-0-release",
+      "type": "announcement",
+      "priority": "high",
+      "featured": true,
+      "title": "🚀 Version 5.0 – The Biggest Update Yet",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T12:00:00Z",
+      "badge": "🔥 NEW VERSION",
+      "contents1": "🚀 New Version 5.0 Dropped!\n\nDownload now 👉 https://thecub.netlify.app/",
+      "contents2": "Watch shows from Netflix, Amazon, Apple TV+, HBO, Disney, Pixar, Marvel, AMC, Paramount, Warner Bros, Walt Disney, Lucasfilm, DC Entertainment, Paramount+, Columbia Pictures, DreamWorks",
+      "contents3": "Subtitles fully managed • Built-in support • Continue watching unlimited • Internal player no ads • Next episode button • Auto updates",
+      "contents4": "1K+ downloads already! 🎉",
+      "contents5": "If download fails, go to our site directly.",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv-hheYdXxAvv_mnO-ztqE92TX-sp1S69IFA&s",
+      "video_url": "https://example.com/version5-preview.mp4",
+      "shortDesc": "Version 5.0 is here with all major streaming services, subtitles, and internal player.",
+      "tags": ["update", "version5", "release", "netflix", "hbo", "disney"]
+    },
+    {
+      "id": "fixed-subtitles-player",
+      "type": "important",
+      "priority": "high",
+      "featured": false,
+      "title": "⚡ Performance & Player Overhaul",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T18:20:00Z",
+      "badge": "FIXED",
+      "contents1": "Fixed subtitles (fully synced)",
+      "contents2": "Better streaming sources",
+      "contents3": "Fixed back button & watch progress",
+      "contents4": "Improved response speed & internal player",
+      "contents5": "If download fails: https://thecub.netlify.app",
+      "image_url": "https://example.com/player-fix.png",
+      "video_url": null,
+      "shortDesc": "Subtitles, player, back button, watch progress – all fixed.",
+      "tags": ["performance", "player", "bugfix"]
+    },
+    {
+      "id": "github-review-status",
+      "type": "important",
+      "priority": "high",
+      "featured": true,
+      "title": "📌 GitHub Temporary Review – Use Alt Server",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T14:00:00Z",
+      "badge": "⚠️ IMPORTANT",
+      "contents1": "GitHub is reviewing my account after a large commit (760 files).",
+      "contents2": "This is NOT a ban. Please use the Alt Server button on our site for downloads.",
+      "contents3": "GitHub links may fail temporarily. We'll update once resolved.",
+      "contents4": "Alt server: https://thecub.netlify.app",
+      "contents5": "Thank you for your patience.",
+      "image_url": "https://example.com/github-status.png",
+      "video_url": null,
+      "shortDesc": "GitHub account under review – use Alt Server for now.",
+      "tags": ["github", "status", "mirror"]
+    },
+    {
+      "id": "cubic-music-rewind",
+      "type": "announcement",
+      "priority": "medium",
+      "featured": false,
+      "title": "🎧 Cubic Music Rewind – Your Year in Music",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T09:15:00Z",
+      "badge": "NEW FEATURE",
+      "contents1": "Cubic Music's answer to Spotify Wrapped – smart recap of your listening habits.",
+      "contents2": "Top songs, artists, total listening time, favorite genres, streaks & highlights.",
+      "contents3": "Download Cubic Music now: Alt Server (recommended) – GitHub under review.",
+      "contents4": "Spotify playlist import, Canvas visuals, comments & tags.",
+      "contents5": "Go to https://thecub.netlify.app for the latest version.",
+      "image_url": "https://example.com/cubic-rewind.jpg",
+      "video_url": "https://example.com/cubic-demo.mp4",
+      "shortDesc": "Smart recap of your listening habits – now live.",
+      "tags": ["music", "cubic", "feature", "rewind"]
+    },
+    {
+      "id": "web-app-no-install",
+      "type": "btw",
+      "priority": "low",
+      "featured": false,
+      "title": "🌐 Watch in Browser – No Install Needed",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T11:00:00Z",
+      "badge": "BTW",
+      "contents1": "Prefer to stream instantly? Open thecub4.vercel.app in any browser.",
+      "contents2": "No login, no install. For ad-free experience, use uBlock Lite.",
+      "contents3": "Or download our PC app with built-in ad blocking.",
+      "contents4": "Available for Windows, Ubuntu, Kali.",
+      "contents5": "Launch web app: https://thecub4.vercel.app",
+      "image_url": "https://example.com/web-stream.png",
+      "video_url": null,
+      "shortDesc": "Stream directly in your browser – no app required.",
+      "tags": ["web", "streaming", "browser"]
+    },
+    {
+      "id": "continue-watching-unlimited",
+      "type": "important",
+      "priority": "medium",
+      "featured": false,
+      "title": "⏳ Continue Watching – Now Unlimited Saves",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T19:30:00Z",
+      "badge": "UPGRADE",
+      "contents1": "Your watch progress is saved infinitely.",
+      "contents2": "Never lose your spot again. Works across all devices with internal player.",
+      "contents3": "Auto-syncs your history.",
+      "contents4": "Supports thousands of titles.",
+      "contents5": "Update to version 4.5+ to activate.",
+      "image_url": "https://example.com/continue-watching.jpg",
+      "video_url": null,
+      "shortDesc": "Unlimited continue watching saves – pick up exactly where you left off.",
+      "tags": ["watchprogress", "feature"]
+    },
+    {
+      "id": "support-system-live",
+      "type": "btw",
+      "priority": "low",
+      "featured": false,
+      "title": "💬 Support System Built-in",
+      "date": "2026-04-20",
+      "timestamp": "2026-04-20T08:00:00Z",
+      "badge": "HELP",
+      "contents1": "Need help? Report bugs or request features directly inside the app.",
+      "contents2": "We read every message and respond via email.",
+      "contents3": "Your feedback shapes THE CUBE.",
+      "contents4": "Go to Settings → Support.",
+      "contents5": "We typically reply within 24 hours.",
+      "image_url": "https://example.com/support.png",
+      "video_url": null,
+      "shortDesc": "Direct support inside the app – we listen.",
+      "tags": ["support", "feedback"]
+    }
+  ]
+}
