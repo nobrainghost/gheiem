@@ -1,0 +1,26 @@
+{
+  "notification": {
+    "url": "",
+    "title": "Cubic Music",
+    "contents": "News from Cubic Music will appear here.",
+    "show": false,
+    "show_image": false,
+    "show_text": true,
+    "version": "",
+    "image_url": "",
+    "btn_title": "Read more",
+    "is_force": false,
+    "isUpdate": false
+  },
+  "system_notification": {
+    "title": "Cubic Music",
+    "contents": "News from Cubic Music will appear here.",
+    "url": "",
+    "show": false,
+    "show_image": false,
+    "show_text": true,
+    "image_url": "",
+    "category": "announcement",
+    "frequency_hours": 24
+  }
+}
