@@ -16,7 +16,7 @@
     "title": "Cubic Music",
     "contents": "News from Cubic Music will appear here.",
     "url": "",
-    "show": false,
+    "show": true,
     "show_image": false,
     "show_text": true,
     "image_url": "",
