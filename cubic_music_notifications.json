@@ -3,7 +3,7 @@
     "url": "",
     "title": "Cubic Music",
     "contents": "News from Cubic Music will appear here.",
-    "show": false,
+    "show": true,
     "show_image": false,
     "show_text": true,
     "version": "",
