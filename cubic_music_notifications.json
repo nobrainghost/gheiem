@@ -14,13 +14,14 @@
     "isUpdate": false
   },
   "system_notification": {
-    "title": "Cubic Music",
-    "contents": "News from Cubic Music will appear here.",
-    "url": "",
+    "title": "keep it alive ❤️",
+    "contents": "Heyy..Wanna to support Cubic music?🥰.",
+    "url": "https://cyberghost-shop.fourthwall.com/",
     "show": true,
     "show_image": false,
     "show_text": true,
-    "image_url": "",
+    "image_url": "https://srbserwfsnicrthholeh.supabase.co/storage/v1/object/public/notification-images/noti_1787129398178.png",
+    "btn_title": "Support Development",
     "category": "announcement",
     "frequency_hours": 24
   }
