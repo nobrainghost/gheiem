@@ -1,15 +1,16 @@
 {
   "notification": {
-    "url": "",
-    "title": "Cubic Music",
-    "contents": "News from Cubic Music will appear here.",
-    "show": false,
-    "show_image": false,
+    "url": "https://cyberghost-shop.fourthwall.com/",
+    "title": "keep it alive ❤️",
+    "contents": "Heyy..Wanna to support Cubic music?🥰.",
+    "show": true,
+    "show_image": true,
     "show_text": true,
-    "version": "",
-    "image_url": "",
-    "btn_title": "Read more",
+    "version": "v1.9.8",
+    "image_url": "https://srbserwfsnicrthholeh.supabase.co/storage/v1/object/public/notification-images/noti_1787129398178.png",
+    "btn_title": "Support Development",
     "is_force": false,
+    "force_update": false,
     "isUpdate": false
   },
   "system_notification": {
