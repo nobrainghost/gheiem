@@ -1,0 +1,21 @@
+{
+  "notifications": {
+    "enabled": true,
+    "premium_users": false,
+    "frequency_hours": 24,
+    "items": [
+      {
+        "id": "premium_shop",
+        "title": "Get Premium Now❤️",
+        "message": "support Narra and remove ads.",
+        "url": "https://cyberghost-shop.fourthwall.com/",
+        "image": {
+          "enabled": false,
+          "url": ""
+        },
+        "system_notification": true,
+        "home_notification": true
+      }
+    ]
+  }
+}
