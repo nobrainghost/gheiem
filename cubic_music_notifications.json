@@ -15,7 +15,7 @@
   },
   "system_notification": {
     "title": "keep it alive ❤️",
-    "contents": "Heyy..Wanna to support Cubic music?🥰.",
+    "contents": "Heyy..Wanna support Cubic music?🥰.",
     "url": "https://cyberghost-shop.fourthwall.com/",
     "show": true,
     "show_image": false,
@@ -23,6 +23,6 @@
     "image_url": "https://img.magnific.com/premium-photo/cherry-blossom-tree-river-bank-anime-landscape-wallpaper_776894-104312.jpg?semt=ais_hybrid&w=740&q=80",
     "btn_title": "Support Development",
     "category": "announcement",
-    "frequency_hours": 24
+    "frequency_hours": 22
   }
 }
