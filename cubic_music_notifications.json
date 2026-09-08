@@ -2,12 +2,12 @@
   "notification": {
     "url": "https://cyberghost-shop.fourthwall.com/",
     "title": "keep it alive ❤️",
-    "contents": "Heyy..Wanna to support Cubic music?🥰.",
+    "contents": "Heyy..Wanna support Cubic music?🥰(click me).",
     "show": true,
     "show_image": true,
     "show_text": true,
     "version": "v1.9.9",
-    "image_url": "https://srbserwfsnicrthholeh.supabase.co/storage/v1/object/public/notification-images/noti_1787129398178.png",
+    "image_url": "https://img.magnific.com/premium-photo/cherry-blossom-tree-river-bank-anime-landscape-wallpaper_776894-104312.jpg?semt=ais_hybrid&w=740&q=80",
     "btn_title": "Support Development",
     "is_force": false,
     "force_update": false,
@@ -20,7 +20,7 @@
     "show": true,
     "show_image": false,
     "show_text": true,
-    "image_url": "https://srbserwfsnicrthholeh.supabase.co/storage/v1/object/public/notification-images/noti_1787129398178.png",
+    "image_url": "https://img.magnific.com/premium-photo/cherry-blossom-tree-river-bank-anime-landscape-wallpaper_776894-104312.jpg?semt=ais_hybrid&w=740&q=80",
     "btn_title": "Support Development",
     "category": "announcement",
     "frequency_hours": 24
