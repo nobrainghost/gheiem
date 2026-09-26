@@ -7,7 +7,7 @@
     "show_image": false,
     "show_text": false,
     "version": "v2.0.0",
-    "image_url": "https://github.com/cybruGhost/ghoststuff/blob/main/Donate.png",
+    "image_url": "https://raw.githubusercontent.com/cybruGhost/ghoststuff/main/Donate.png",
     "btn_title": "Support Development",
     "is_force": false,
     "force_update": false,
@@ -20,7 +20,7 @@
     "show": true,
     "show_image": true,
     "show_text": true,
-    "image_url": "https://github.com/cybruGhost/ghoststuff/blob/main/Donate.png",
+    "image_url": "https://raw.githubusercontent.com/cybruGhost/ghoststuff/main/Donate.png",
     "btn_title": "Support Development",
     "category": "announcement",
     "frequency_hours": 22
