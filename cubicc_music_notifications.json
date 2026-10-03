@@ -1,14 +1,14 @@
 {
   "notification": {
-    "url": "https://thecub.netlify.app/tv",
-    "title": "📺 Introducing CubeTV!",
-    "contents": "Heyy ❤️ Hope this isn't a disturbance! 🥹 I made CubeTV, a little TV app for movies. Feel free to check it out! ",
+    "url": "https://cyberghost-shop.fourthwall.com/",
+    "title": "keep it alive ❤️",
+    "contents": "Heyy..Wanna support Cubic music?🥰 ",
     "show": true,
     "show_image": true,
     "show_text": true,
     "version": "v2.0.1",
     "image_url": "https://raw.githubusercontent.com/nobrainghost/gheiem/main/cbtv.png",
-    "btn_title": "Check It Out 📺",
+    "btn_title": "Donate",
     "is_force": false,
     "force_update": false,
     "isUpdate": false
