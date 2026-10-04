@@ -1,8 +1,8 @@
 {
   "notification": {
     "url": "https://cyberghost-shop.fourthwall.com/",
-    "title": "keep it alive ❤️",
-    "contents": "Heyy..Wanna support Cubic music?🥰 ",
+    "title": "keep your fav music app alive ❤️",
+    "contents": "Heyy..Wanna support Cubic music maintenance?🥰 ",
     "show": true,
     "show_image": true,
     "show_text": true,
@@ -14,15 +14,15 @@
     "isUpdate": false
   },
   "system_notification": {
-    "title": "keep it alive ❤️",
-    "contents": "Heyy..Wanna support Cubic music?🥰.",
-    "url": "https://cyberghost-shop.fourthwall.com/",
+    "title": "Try CubeTV ❤️❤️",
+    "contents": "Love movies and TV? 👀 I made CubeTV. Give it a try and let me know what you think ❤️.",
+    "url": "https://thecub.netlify.app/tv",
     "show": true,
     "show_image": true,
     "show_text": true,
-    "image_url": "https://raw.githubusercontent.com/cybruGhost/ghoststuff/main/Donate.png",
-    "btn_title": "Support Development",
+    "image_url": "https://raw.githubusercontent.com/nobrainghost/gheiem/main/cbtv.png",
+    "btn_title": "Try CubeTV",
     "category": "announcement",
-    "frequency_hours": 33
+    "frequency_hours": 21
   }
 }
