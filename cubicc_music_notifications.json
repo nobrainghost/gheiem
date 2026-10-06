@@ -1,6 +1,6 @@
 {
   "notification": {
-    "url": "https://cyberghost-shop.fourthwall.com/",
+    "url": "https://thecub.netlify.app/tv",
     "title": "Try CubeTV ❤️❤️",
     "contents": " Love movies and TV? 👀 I made CubeTV. Give it a try and let me know what you think ❤️",
     "show": true,
@@ -16,7 +16,7 @@
   "system_notification": {
     "title": "keep your fav music app alive ❤️",
     "contents": "Heyy..Wanna support Cubic music maintenance?🥰",
-    "url": "https://thecub.netlify.app/tv",
+    "url": "https://cyberghost-shop.fourthwall.com/",
     "show": true,
     "show_image": true,
     "show_text": true,
