@@ -1,7 +1,7 @@
 {
   "version": "2.3.0",
   "notes": "Beta: improved Categories, Search, Upcoming details, player controls, Account page, and updater.",
-  "force": true,
+  "force": false,
   "assets": {
     "windows": {
       "url": "https://github.com/cybruGhost/THE-CUBE/releases/download/v2.3.0/The-Cube-Desktop-2.3.0-Windows-x64-setup.exe",
