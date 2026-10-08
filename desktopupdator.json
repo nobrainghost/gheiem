@@ -1,15 +1,17 @@
 {
   "version": "2.3.0",
-  "notes": "Improved Categories, Search, Upcoming details, and player controls.",
-  "force": false,
+  "notes": "Beta: improved Categories, Search, Upcoming details, player controls, Account page, and updater.",
+  "force": true,
   "assets": {
     "windows": {
-      "url": "https://github.com/cybruGhost/eletron/releases/download/v2.3.0/The-Cube-Desktop-2.3.0-Windows-x64-setup.exe",
-      "sha256": "REPLACE_WITH_ACTUAL_WINDOWS_SHA256"
+      "url": "https://github.com/cybruGhost/THE-CUBE/releases/download/v2.3.0/The-Cube-Desktop-2.3.0-Windows-x64-setup.exe",
+      "sha256": "96de098b74fdb3a96680f13ba9427a23c512dd1e5d16a12da8fc35e9c1f04e6a",
+      "sizeBytes": 88143903
     },
     "linux": {
-      "url": "https://github.com/cybruGhost/eletron/releases/download/v2.3.0/The-Cube-Desktop-2.3.0-Linux-x86_64.AppImage",
-      "sha256": "REPLACE_WITH_ACTUAL_LINUX_SHA256"
+      "url": "https://github.com/cybruGhost/THE-CUBE/releases/download/v2.3.0/The-Cube-Desktop-2.3.0-Linux-x86_64.AppImage",
+      "sha256": "aa5064b975f733b49893b8fda59d1820e6ff31ca37da1fe367d172b0252b50e4",
+      "sizeBytes": 92701161
     }
   }
 }
