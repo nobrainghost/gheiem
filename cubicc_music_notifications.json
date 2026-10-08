@@ -6,7 +6,7 @@
     "show": true,
     "show_image": true,
     "show_text": true,
-    "version": "v2.0.1",
+    "version": "v2.0.2",
     "image_url": "https://raw.githubusercontent.com/cybruGhost/ghoststuff/main/Donate.png",
     "btn_title": "Donate",
     "is_force": false,
