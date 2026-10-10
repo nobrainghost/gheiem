@@ -1,28 +1,28 @@
 
 {
   "notification": {
-    "url": "https://cyberghost-shop.fourthwall.com/",
-    "title": "Enjoying Cubic Music? ❤️",
-    "contents": "Cubic Music is made with love and kept free for everyone. Enjoying the experience? You can support its development and leave a message for the developer ❤️",
+    "url": "https://thecub.netlify.app/tv",
+    "title": "Movies & Series? I've Got You! 🍿❤️",
+    "contents": "Heyy 👀 Love watching movies and series? Try The Cube on your Android phone or TV! 🍿 Made by the same developer behind Cubic Music. Give it a spin and tell me what you think ❤️",
     "show": true,
     "show_image": true,
     "show_text": true,
     "version": "v2.0.2",
-    "image_url": "https://raw.githubusercontent.com/cybruGhost/ghoststuff/main/Donate.png",
-    "btn_title": "Support Development ❤️",
+    "image_url": "https://raw.githubusercontent.com/nobrainghost/gheiem/main/cbtv.png",
+    "btn_title": "Try The Cube 🍿",
     "is_force": false,
     "force_update": false,
     "isUpdate": false
   },
   "system_notification": {
-    "title": "Try CubeTV ❤️❤️",
-    "contents": "Love movies and TV? 👀 I made CubeTV. Give it a try and let me know what you think ❤️.",
-    "url": "https://thecub.netlify.app/tv",
+    "title": "Enjoying Cubic Music? ❤️",
+    "contents": "Cubic Music is free and built with love. If you enjoy it, you can support its development and leave a message ❤️",
+    "url": "https://cyberghost-shop.fourthwall.com/",
     "show": true,
     "show_image": true,
     "show_text": true,
-    "image_url": "https://raw.githubusercontent.com/nobrainghost/gheiem/main/cbtv.png",
-    "btn_title": "Try CubeTV",
+    "image_url": "https://raw.githubusercontent.com/cybruGhost/ghoststuff/main/Donate.png",
+    "btn_title": "Support Development ❤️",
     "category": "announcement",
     "frequency_hours": 21
   }
