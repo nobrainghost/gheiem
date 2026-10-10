@@ -1,14 +1,15 @@
+
 {
   "notification": {
     "url": "https://cyberghost-shop.fourthwall.com/",
-    "title": "keep your fav music app alive ❤️",
-    "contents": "Heyy..love the app,support app and leave a message ❤️",
+    "title": "Enjoying Cubic Music? ❤️",
+    "contents": "Cubic Music is made with love and kept free for everyone. Enjoying the experience? You can support its development and leave a message for the developer ❤️",
     "show": true,
     "show_image": true,
     "show_text": true,
     "version": "v2.0.2",
     "image_url": "https://raw.githubusercontent.com/cybruGhost/ghoststuff/main/Donate.png",
-    "btn_title": "Donate",
+    "btn_title": "Support Development ❤️",
     "is_force": false,
     "force_update": false,
     "isUpdate": false
@@ -17,7 +18,7 @@
     "title": "Try CubeTV ❤️❤️",
     "contents": "Love movies and TV? 👀 I made CubeTV. Give it a try and let me know what you think ❤️.",
     "url": "https://thecub.netlify.app/tv",
-    "show": false,
+    "show": true,
     "show_image": true,
     "show_text": true,
     "image_url": "https://raw.githubusercontent.com/nobrainghost/gheiem/main/cbtv.png",
