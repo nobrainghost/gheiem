@@ -1,17 +1,17 @@
 {
-  "version": "2.3.0",
-  "notes": "Beta: improved Categories, Search, Upcoming details, player controls, Account page, and updater.",
-  "force": false,
+  "version": "2.3.1",
+  "notes": "Beta: improved Library and Continue Watching, account connection, updater, and the new Get APK page with navigation.",
+  "force": true,
   "assets": {
     "windows": {
-      "url": "https://github.com/cybruGhost/THE-CUBE/releases/download/v2.3.0/The-Cube-Desktop-2.3.0-Windows-x64-setup.exe",
-      "sha256": "96de098b74fdb3a96680f13ba9427a23c512dd1e5d16a12da8fc35e9c1f04e6a",
-      "sizeBytes": 88143903
+      "url": "https://github.com/cybruGhost/THE-CUBE/releases/download/v2.3.1/The-Cube-Desktop-2.3.1-Windows-x64-setup.exe",
+      "sha256": "0ed906056d89fc682c9d969a27a09f564f631564a64b6dc4eb69607f835f1e14",
+      "sizeBytes": 88161701
     },
     "linux": {
-      "url": "https://github.com/cybruGhost/THE-CUBE/releases/download/v2.3.0/The-Cube-Desktop-2.3.0-Linux-x86_64.AppImage",
-      "sha256": "aa5064b975f733b49893b8fda59d1820e6ff31ca37da1fe367d172b0252b50e4",
-      "sizeBytes": 92701161
+      "url": "https://github.com/cybruGhost/THE-CUBE/releases/download/v2.3.1/The-Cube-Desktop-2.3.1-Linux-x86_64.AppImage",
+      "sha256": "449575de8c46e1f93c5bab220c87f7f62452c2d0c5353bac473cebb96a3c589c",
+      "sizeBytes": 92721197
     }
   }
 }
