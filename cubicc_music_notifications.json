@@ -1,28 +1,28 @@
 
 {
   "notification": {
-    "url": "https://thecub.netlify.app/",
-    "title": "Movies & Series? I've Got You! 🍿❤️",
-    "contents": "Heyy 👀 Love watching movies and series? Try The Cube on your Android phone or TV! 🍿 Made by the same developer behind Cubic Music. Give it a spin and tell me what you think ❤️",
+    "url": "https://cyberghost-shop.fourthwall.com/",
+    "title": "Keep Your Favorite Apps Alive ❤️",
+    "contents": "Heyy ❤️ I'm Cyberghost, the developer behind Cubic Music, The Cube & Narra. I love building these apps, and Cubic Music will always be free. If you'd like to help with servers, development and maintenance, any donation means a lot. Even $0.94 is appreciated ❤️ Thank you for being part of this journey!",
     "show": true,
     "show_image": true,
     "show_text": true,
     "version": "v2.0.2",
-    "image_url": "https://raw.githubusercontent.com/nobrainghost/gheiem/main/cbtv.png",
-    "btn_title": "Try The Cube 🍿",
+    "image_url": "https://raw.githubusercontent.com/cybruGhost/ghoststuff/main/Donate.png",
+    "btn_title": "Support My Apps ❤️",
     "is_force": false,
     "force_update": false,
     "isUpdate": false
   },
   "system_notification": {
-    "title": "Enjoying Cubic Music? ❤️",
-    "contents": "Cubic Music is free and built with love. If you enjoy it, you can support its development and leave a message ❤️",
-    "url": "https://cyberghost-shop.fourthwall.com/",
-    "show": true,
+    "title": "Movies & Series? I've Got You! 🍿❤️",
+    "contents": "Love movies and series? 👀 Try The Cube on your Android phone or TV! Made by the developer of Cubic Music ❤️",
+    "url": "https://thecub.netlify.app/tv",
+    "show": false,
     "show_image": true,
     "show_text": true,
-    "image_url": "https://raw.githubusercontent.com/cybruGhost/ghoststuff/main/Donate.png",
-    "btn_title": "Support Development ❤️",
+    "image_url": "https://raw.githubusercontent.com/nobrainghost/gheiem/main/cbtv.png",
+    "btn_title": "Try The Cube 🍿",
     "category": "announcement",
     "frequency_hours": 21
   }
