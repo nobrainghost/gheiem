@@ -1,1 +1,10 @@
 
+{
+  "schema_version": 1,
+  "package_name": "com.sportify.app",
+  "latest_version_code": 1,
+  "latest_version_name": "1.0",
+  "minimum_version_code": 1,
+  "download_url": null,
+  "release_notes": "Initial release"
+}
