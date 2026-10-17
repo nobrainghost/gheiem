@@ -1,28 +1,28 @@
 
 {
   "notification": {
-    "url": "https://cyberghost-shop.fourthwall.com/",
-    "title": "Cubic Music Keeps Getting Better! ❤️🎶",
-    "contents": "Heyy ❤️ Playback is fixed, and Last.fm is here! 🎶 Enjoying Cubic Music? Support its development and help keep it growing. ❤️",
+    "url": "https://thecub.netlify.app/tv",
+    "title": "Movies & Series? I've Got You! 🍿❤️",
+    "contents": "Heyy 👀 Love movies and series? The Cube brings them to your Android phone and TV! 🍿 Give it a try and enjoy! ❤️",
     "show": true,
     "show_image": true,
     "show_text": true,
     "version": "v2.0.4",
-    "image_url": "https://raw.githubusercontent.com/nobrainghost/gheiem/main/donate.png",
-    "btn_title": "Support Cubic Music ❤️",
+    "image_url": "https://raw.githubusercontent.com/nobrainghost/gheiem/main/cbtv.png",
+    "btn_title": "Try The Cube 🍿",
     "is_force": false,
     "force_update": false,
     "isUpdate": false
   },
   "system_notification": {
-    "title": "Movies & Series? I've Got You! 🍿❤️",
-    "contents": "Heyy 👀 Love movies and series? Try The Cube on your Android phone or TV! 🍿❤️",
-    "url": "https://thecub.netlify.app/tv",
+    "title": "Enjoying Cubic Music? ❤️🎶",
+    "contents": "Playback is fixed, and Last.fm is here! 🎶 Enjoying the updates? Your support helps keep Cubic Music growing. ❤️",
+    "url": "https://cyberghost-shop.fourthwall.com/",
     "show": false,
     "show_image": true,
     "show_text": true,
-    "image_url": "https://raw.githubusercontent.com/nobrainghost/gheiem/main/cbtv.png",
-    "btn_title": "Try The Cube 🍿",
+    "image_url": "https://raw.githubusercontent.com/nobrainghost/gheiem/main/donate.png",
+    "btn_title": "Support Cubic Music ❤️",
     "category": "announcement",
     "frequency_hours": 21
   }
