@@ -2,9 +2,9 @@
 {
   "notification": {
     "url": "https://cyberghost-shop.fourthwall.com/",
-    "title": "Keep Cubic Music Alive ❤️",
-    "contents": "Heyy ❤️  Enjoying Cubic Music? Support its development and help keep it growing. ❤️",
-    "show": false,
+    "title": "support the development ❤️",
+    "contents": "Heyy ❤️  Enjoying Cubic Music? Support the development . ❤️",
+    "show": true,
     "show_image": true,
     "show_text": true,
     "version": "v2.0.4",
