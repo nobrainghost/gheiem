@@ -1,21 +1,21 @@
 {
   "notification": {
-    "url": "https://thecub.netlify.app/tv",
-    "title": "I Made CubeTV! 🍿🔥",
-    "contents": "Heyy! ❤️ I built CubeTV for movies & series, and trust me, it's crazy awesome! 😂🔥 Give it a try!",
+    "url": "https://discord.gg/RebqmxXqGb",
+    "title": "Join Our Discord Community! 💬",
+    "contents": "Discover more apps, report issues, share feedback and stay updated with the latest news! 🚀",
     "show": true,
     "show_image": true,
     "show_text": true,
     "version": "v2.0.4",
-    "image_url": "https://raw.githubusercontent.com/nobrainghost/gheiem/main/cbtv.png",
-    "btn_title": "Try CubeTV 🍿",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkpDdFPFLO9ycSQIog0EHWdmr1gZWYBUcMZtFki1a-9w&s=10",
+    "btn_title": "Join Discord",
     "is_force": false,
     "force_update": false,
     "isUpdate": false
   },
   "system_notification": {
     "title": "Support Cubic Music ❤️",
-    "contents": "Heyy ❤️ Enjoying Cubic Music? Help support its development! ❤️",
+    "contents": "Enjoying Cubic Music? Support its continued development! ❤️",
     "url": "https://cyberghost-shop.fourthwall.com/",
     "show": false,
     "show_image": true,
