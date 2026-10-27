@@ -2,7 +2,7 @@
   "notification": {
     "url": "https://discord.gg/RebqmxXqGb",
     "title": "Join Our Discord Community! 💬",
-    "contents": "Discover more apps, report issues, share feedback and stay updated with the latest news! 🚀",
+    "contents": "Discover more apps, report issues, share feedback and stay updated with the latest news! 🚀Note this is optional and please ignore if not interested",
     "show": true,
     "show_image": true,
     "show_text": true,
@@ -17,7 +17,7 @@
     "title": "Support Cubic Music ❤️",
     "contents": "Enjoying Cubic Music? Support its continued development! ❤️",
     "url": "https://cyberghost-shop.fourthwall.com/",
-    "show": true,
+    "show": false,
     "show_image": true,
     "show_text": true,
     "image_url": "https://raw.githubusercontent.com/nobrainghost/gheiem/main/fff.png",
