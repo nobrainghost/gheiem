@@ -2,7 +2,8 @@
   "notification": {
     "url": "https://discord.gg/RebqmxXqGb",
     "title": "Join Our Discord Community! 💬",
-    "contents": "Discover more apps, report issues, share feedback and stay updated with the latest news! 🚀Note this is optional and please ignore if not interested",
+    "contents": "🚀Note this is optional and please ignore if not interested.
+Discover more apps, report issues, share feedback and stay updated with the latest news",
     "show": true,
     "show_image": true,
     "show_text": true,
