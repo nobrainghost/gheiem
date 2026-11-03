@@ -1,28 +1,27 @@
 {
   "notification": {
-    "url": "https://discord.gg/RebqmxXqGb",
-    "title": "Join Our Discord Community! 💬",
-    "contents": "🚀Note this is optional and please ignore if not interested.
-Discover more apps, report issues, share feedback and stay updated with the latest news",
+    "url": "https://thecub.netlify.app/tv",
+    "title": "I Also Built The Cube / CubeTV! 🍿🔥",
+    "contents": "Enjoying Cubic Music? ❤️ I've also developed The Cube / CubeTV for watching movies and series on Android and TV! It's one of my own apps, not a sponsored ad. Give it a try and see what I've been building! 🔥",
     "show": true,
     "show_image": true,
     "show_text": true,
     "version": "v2.0.5",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkpDdFPFLO9ycSQIog0EHWdmr1gZWYBUcMZtFki1a-9w&s=10",
-    "btn_title": "Join Discord",
+    "image_url": "https://raw.githubusercontent.com/nobrainghost/gheiem/main/cbtv.png",
+    "btn_title": "Try The Cube 🍿",
     "is_force": false,
     "force_update": false,
     "isUpdate": false
   },
   "system_notification": {
     "title": "Support Cubic Music ❤️",
-    "contents": "Enjoying Cubic Music? Support its continued development! ❤️",
+    "contents": "Enjoying Cubic Music? ❤️ Your support helps keep development alive!",
     "url": "https://cyberghost-shop.fourthwall.com/",
-    "show": false,
+    "show": true,
     "show_image": true,
     "show_text": true,
     "image_url": "https://raw.githubusercontent.com/nobrainghost/gheiem/main/fff.png",
-    "btn_title": "Support Cubic Music ❤️",
+    "btn_title": "Support Development ❤️",
     "category": "announcement",
     "frequency_hours": 21
   }
