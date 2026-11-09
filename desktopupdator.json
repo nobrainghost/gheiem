@@ -1,17 +1,17 @@
 {
-  "version": "2.3.1",
-  "notes": "Beta: improved Library and Continue Watching, account connection, updater, and the new Get APK page with navigation.",
+  "version": "2.3.3",
+  "notes": "Beta update: corrected Cube app icon wiring for Windows and Linux, plus desktop polish. Linux includes both the .deb installer and AppImage; Windows uses the x64 setup installer.",
   "force": true,
   "assets": {
     "windows": {
-      "url": "https://github.com/cybruGhost/THE-CUBE/releases/download/v2.3.1/The-Cube-Desktop-2.3.1-Windows-x64-setup.exe",
-      "sha256": "0ed906056d89fc682c9d969a27a09f564f631564a64b6dc4eb69607f835f1e14",
-      "sizeBytes": 88161701
+      "url": "https://github.com/cybruGhost/THE-CUBE/releases/download/v2.3.3/The-Cube-Desktop-2.3.3-Windows-x64-setup.exe",
+      "sha256": "3ce951802b147ca0ab41f01ce2ee61bc96240490f05d659c2185b84613039367",
+      "sizeBytes": 92973950
     },
     "linux": {
-      "url": "https://github.com/cybruGhost/THE-CUBE/releases/download/v2.3.1/The-Cube-Desktop-2.3.1-Linux-x86_64.AppImage",
-      "sha256": "449575de8c46e1f93c5bab220c87f7f62452c2d0c5353bac473cebb96a3c589c",
-      "sizeBytes": 92721197
+      "url": "https://github.com/cybruGhost/THE-CUBE/releases/download/v2.3.3/The-Cube-Desktop-2.3.3-Linux-x86_64.AppImage",
+      "sha256": "44de3505babf2dca69e910d7b2822e127773992a88c54893bfbc7775d8d559f0",
+      "sizeBytes": 97420138
     }
   }
 }
