@@ -3,7 +3,7 @@
     "url": "https://thecub.netlify.app/tv",
     "title": "I Also Built The Cube / CubeTV! 🍿🔥",
     "contents": "Enjoying Cubic Music? ❤️ I've also developed The Cube / CubeTV for watching movies and series on Android and TV! It's one of my own apps, not a sponsored ad. Give it a try and see what I've been building! 🔥",
-    "show": false,
+    "show": true,
     "show_image": true,
     "show_text": true,
     "version": "v2.0.6",
