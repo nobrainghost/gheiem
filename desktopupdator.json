@@ -1,17 +1,17 @@
 {
-  "version": "2.3.3",
-  "notes": "Beta update: corrected Cube app icon wiring for Windows and Linux, plus desktop polish. Linux includes both the .deb installer and AppImage; Windows uses the x64 setup installer.",
+  "version": "2.3.6",
+  "notes": "Stable release: the Account page now uses the shared sliding navigation, and Continue Watching opens the player immediately while servers load there. Includes desktop UI and playback improvements. Linux downloads include the .deb installer and AppImage; Windows uses the x64 setup installer.",
   "force": true,
   "assets": {
     "windows": {
-      "url": "https://github.com/cybruGhost/THE-CUBE/releases/download/v2.3.3/The-Cube-Desktop-2.3.3-Windows-x64-setup.exe",
-      "sha256": "3ce951802b147ca0ab41f01ce2ee61bc96240490f05d659c2185b84613039367",
-      "sizeBytes": 92973950
+      "url": "https://github.com/cybruGhost/THE-CUBE/releases/download/v2.3.6/The-Cube-Desktop-2.3.6-Windows-x64-setup.exe",
+      "sha256": "cec0a1019e06b3b5d5773fdb5ed1ce13ee4ae7e4cb0e0cb3c92622234eca2685",
+      "sizeBytes": 95771299
     },
     "linux": {
-      "url": "https://github.com/cybruGhost/THE-CUBE/releases/download/v2.3.3/The-Cube-Desktop-2.3.3-Linux-x86_64.AppImage",
-      "sha256": "44de3505babf2dca69e910d7b2822e127773992a88c54893bfbc7775d8d559f0",
-      "sizeBytes": 97420138
+      "url": "https://github.com/cybruGhost/THE-CUBE/releases/download/v2.3.6/The-Cube-Desktop-2.3.6-Linux-x86_64.AppImage",
+      "sha256": "8dabf8b2eaf8b5611c5a3b4eb19dad93de389aca0563f2197f7d73278ffa1bae",
+      "sizeBytes": 100482467
     }
   }
 }
