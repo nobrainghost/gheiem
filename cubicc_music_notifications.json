@@ -1,13 +1,13 @@
 {
   "notification": {
     "url": "https://thecub.netlify.app/tv",
-    "title": "I Also Built The Cube / CubeTV! 🍿🔥",
-    "contents": "Enjoying Cubic Music? ❤️ I've also developed The Cube / CubeTV for watching movies and series on Android and TV! It's one of my own apps, not a sponsored ad. Give it a try and see what I've been building! 🔥",
+    "title": "Fixes in Progress 🛠️",
+    "contents": "Please submit any issues you're experiencing so I can address them in the upcoming update. ❤️",
     "show": true,
     "show_image": true,
     "show_text": true,
     "version": "v2.0.6",
-    "image_url": "https://raw.githubusercontent.com/nobrainghost/gheiem/main/Hd.jpg",
+    "image_url": "https://raw.githubusercontent.com/nobrainghost/gheiem/main/update.png",
     "btn_title": "Try The Cube 🍿",
     "is_force": false,
     "force_update": false,
