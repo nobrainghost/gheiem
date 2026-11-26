@@ -1,13 +1,13 @@
 {
   "notification": {
-    "url": "https://thecub.netlify.app/tv",
+    "url": "https://github.com/cybruGhost/Cubic-Music/issues",
     "title": "Fixes in Progress 🛠️",
     "contents": "Please submit any issues you're experiencing so I can address them in the upcoming update. ❤️",
     "show": true,
     "show_image": true,
     "show_text": true,
     "version": "v2.0.6",
-    "image_url": "https://github.com/cybruGhost/Cubic-Music/issues",
+    "image_url": "https://raw.githubusercontent.com/nobrainghost/gheiem/main/update.png",
     "btn_title": "Report",
     "is_force": false,
     "force_update": false,
